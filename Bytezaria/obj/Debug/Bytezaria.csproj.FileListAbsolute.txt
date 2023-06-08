@@ -1,0 +1,12 @@
+/Users/kszaq/Desktop/sem4/Projektowanie Obiektowe/projekt/Bytezaria/bin/Debug/Bytezaria.dll
+/Users/kszaq/Desktop/sem4/Projektowanie Obiektowe/projekt/Bytezaria/bin/Debug/Bytezaria.pdb
+/Users/kszaq/Desktop/sem4/Projektowanie Obiektowe/projekt/Bytezaria/obj/Debug/Bytezaria.csproj.AssemblyReference.cache
+/Users/kszaq/Desktop/sem4/Projektowanie Obiektowe/projekt/Bytezaria/obj/Debug/Bytezaria.csproj.CoreCompileInputs.cache
+/Users/kszaq/Desktop/sem4/Projektowanie Obiektowe/projekt/Bytezaria/obj/Debug/Bytezaria.dll
+/Users/kszaq/Desktop/sem4/Projektowanie Obiektowe/projekt/Bytezaria/obj/Debug/Bytezaria.pdb
+C:\Users\PC\Desktop\sem4\Projektowanie_Obiektowe\projekt\Bytezaria\bin\Debug\Bytezaria.dll
+C:\Users\PC\Desktop\sem4\Projektowanie_Obiektowe\projekt\Bytezaria\bin\Debug\Bytezaria.pdb
+C:\Users\PC\Desktop\sem4\Projektowanie_Obiektowe\projekt\Bytezaria\obj\Debug\Bytezaria.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\sem4\Projektowanie_Obiektowe\projekt\Bytezaria\obj\Debug\Bytezaria.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\sem4\Projektowanie_Obiektowe\projekt\Bytezaria\obj\Debug\Bytezaria.dll
+C:\Users\PC\Desktop\sem4\Projektowanie_Obiektowe\projekt\Bytezaria\obj\Debug\Bytezaria.pdb

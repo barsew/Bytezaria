@@ -1,0 +1,32 @@
+C:/Users/PC/Desktop/sem4/Projektowanie_Obiektowe/projekt/Program/bin/Debug/Program.exe.config
+C:/Users/PC/Desktop/sem4/Projektowanie_Obiektowe/projekt/Program/bin/Debug/Program.exe
+C:/Users/PC/Desktop/sem4/Projektowanie_Obiektowe/projekt/Program/bin/Debug/Program.pdb
+C:/Users/PC/Desktop/sem4/Projektowanie_Obiektowe/projekt/Program/obj/Debug/Program.csproj.AssemblyReference.cache
+C:/Users/PC/Desktop/sem4/Projektowanie_Obiektowe/projekt/Program/obj/Debug/Program.csproj.SuggestedBindingRedirects.cache
+C:/Users/PC/Desktop/sem4/Projektowanie_Obiektowe/projekt/Program/obj/Debug/Program.csproj.CoreCompileInputs.cache
+C:/Users/PC/Desktop/sem4/Projektowanie_Obiektowe/projekt/Program/obj/Debug/Program.exe
+C:/Users/PC/Desktop/sem4/Projektowanie_Obiektowe/projekt/Program/obj/Debug/Program.pdb
+C:/Users/PC/Desktop/sem4/Projektowanie_Obiektowe/projekt/Program/bin/Debug/Bytezaria.dll
+C:/Users/PC/Desktop/sem4/Projektowanie_Obiektowe/projekt/Program/bin/Debug/Bytezaria.pdb
+C:/Users/PC/Desktop/sem4/Projektowanie_Obiektowe/projekt/Program/obj/Debug/Program.csproj.CopyComplete
+/Users/kszaq/Desktop/sem4/Projektowanie Obiektowe/projekt/Program/bin/Debug/Program.pdb
+/Users/kszaq/Desktop/sem4/Projektowanie Obiektowe/projekt/Program/bin/Debug/Bytezaria.dll
+/Users/kszaq/Desktop/sem4/Projektowanie Obiektowe/projekt/Program/bin/Debug/Bytezaria.pdb
+/Users/kszaq/Desktop/sem4/Projektowanie Obiektowe/projekt/Program/obj/Debug/Program.csproj.AssemblyReference.cache
+/Users/kszaq/Desktop/sem4/Projektowanie Obiektowe/projekt/Program/obj/Debug/Program.csproj.CoreCompileInputs.cache
+/Users/kszaq/Desktop/sem4/Projektowanie Obiektowe/projekt/Program/obj/Debug/Program.csproj.CopyComplete
+/Users/kszaq/Desktop/sem4/Projektowanie Obiektowe/projekt/Program/obj/Debug/Program.pdb
+/Users/kszaq/Desktop/sem4/Projektowanie Obiektowe/projekt/Program/bin/Debug/Program.exe.config
+/Users/kszaq/Desktop/sem4/Projektowanie Obiektowe/projekt/Program/bin/Debug/Program.exe
+/Users/kszaq/Desktop/sem4/Projektowanie Obiektowe/projekt/Program/obj/Debug/Program.exe
+C:\Users\PC\Desktop\sem4\Projektowanie_Obiektowe\projekt\Program\bin\Debug\Program.exe.config
+C:\Users\PC\Desktop\sem4\Projektowanie_Obiektowe\projekt\Program\bin\Debug\Program.exe
+C:\Users\PC\Desktop\sem4\Projektowanie_Obiektowe\projekt\Program\bin\Debug\Program.pdb
+C:\Users\PC\Desktop\sem4\Projektowanie_Obiektowe\projekt\Program\bin\Debug\Bytezaria.dll
+C:\Users\PC\Desktop\sem4\Projektowanie_Obiektowe\projekt\Program\bin\Debug\Bytezaria.pdb
+C:\Users\PC\Desktop\sem4\Projektowanie_Obiektowe\projekt\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\sem4\Projektowanie_Obiektowe\projekt\Program\obj\Debug\Program.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\sem4\Projektowanie_Obiektowe\projekt\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\sem4\Projektowanie_Obiektowe\projekt\Program\obj\Debug\Program.csproj.CopyComplete
+C:\Users\PC\Desktop\sem4\Projektowanie_Obiektowe\projekt\Program\obj\Debug\Program.exe
+C:\Users\PC\Desktop\sem4\Projektowanie_Obiektowe\projekt\Program\obj\Debug\Program.pdb
