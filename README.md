@@ -16,7 +16,7 @@ Implemented Algorithms:
   ForEach,
   CountIf.
   
-Itrators enable to iterate the colletions.
+Itrators enable to iterate the collections.
 
 Availabe commands:
   list <class>, 
